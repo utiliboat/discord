@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.c2g.space/f/rQYBJSlN.png">
+  <img src="https://img.c2g.space/f/rQYBJSlN.png" height="450">
   <br>
   <a href="https://github.com/utiliboat/discord/blob/master/LICENSE"><img src="https://img.shields.io/github/license/utiliboat/discord.svg"></a>
   <a href="https://david-dm.org/utiliboat/discord"><img src="https://img.shields.io/david/utiliboat/discord.svg"></a>
