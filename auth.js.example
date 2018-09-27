@@ -1,0 +1,10 @@
+module.exports = {
+  // Discord Token, you can get one at https://discordapp.com/developers/applications/
+  DISCORD_TOKEN: 'thistokenisobviouslyinvalid',
+
+  // User that'll have bot admin permissions
+  OWNER: 'userNumberOne',
+
+  // Bot prefix
+  PREFIX: 'u!'
+}
