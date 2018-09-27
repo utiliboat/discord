@@ -6,14 +6,14 @@
 </p>
 <h1 align="center">utiliboat-discord</h1>
 <p align="center">Multi-purpose Discord bot, built thinking in modularity and ease of use</p>
-<br>
+<br><br>
 <h2>How do I add it to my Discord server?</h1>
 <p>You can add Utiliboat to your Discord server by clicking <a href="https://discordapp.com/oauth2/authorize?client_id=490952235027529739&scope=bot&permissions=2145908991">here</a>.<br>
 You do need to have the <b>Manage Server</b> permission on the server you're going to add Utiliboat.</p>
 <br>
 <h2>How can I contribute to Utiliboat's development?</h1>
 <p>You can contribute in several ways:<br>
-• by opening a <a href="https://github.com/utiliboat/discord/pulls">pull request</a> <i>(make sure to follow <a href="">standard.js</a> rules)</i><br>
+• by opening a <a href="https://github.com/utiliboat/discord/pulls">pull request</a> <i>(make sure to follow <a href="https://standardjs.com/">standard.js</a> rules)</i><br>
 • by <a href="https://github.com/utiliboat/discord/issues">reporting issues</a><br>
 • by <a href="https://ko-fi.com/pillgp">buying developers a coffee</a> <i>($3 each)</i></p>
 <br>
@@ -21,7 +21,8 @@ You do need to have the <b>Manage Server</b> permission on the server you're goi
 <p>I don't recommend that you selfhost Utiliboat, as it's very work in progress, and there are mainly some functions that are proprietary. 
 While I don't recommend selfhosting it yourself, <b>I also don't take any responsibility for what happens within the process of running the bot itself</b>.</p>
 <br>
-*For this guide, we're assuming that you already have npm, Node.js and Windows Build Tools installed.*
+
+> For this guide, we're assuming that you already have npm, Node.js and Windows Build Tools installed.
 
 **0. Fork the repository** (You don't have to do this if you're part of our organization)
 
