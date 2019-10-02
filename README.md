@@ -1,3 +1,5 @@
+# This project has been discontinued and is now read-only.
+
 <p align="center">
   <img src="https://img.c2g.space/f/YV6tZI9W.png">
   <br>
